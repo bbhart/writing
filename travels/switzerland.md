@@ -87,10 +87,75 @@ Where we came across this well-dressed angry guy:
 
 There was a lot of arguing in French between him and the whiskey bar 
 proprietors, with them throwing a bucket of water at his feet (but not on) 
-as ultimate insult of some sort. He wandered off after a few minutes. ¯\_(ツ)_/¯
+as ultimate insult of some sort. He wandered off after a few minutes. ¯\\_(ツ)_/¯
+
+## Geneva Airport
+
+Let's talk for a minute about the Geneva airport. It's situated right on the 
+Switzerland-France border. The airport proper appears to be completely on 
+the Swiss side (when eyeballing the map), but there is a French sector of the 
+airport and Swiss sector. You land on the Swiss side; if you're arriving 
+on a flight from a French city, you have the option of exiting directly into 
+the French sector, and all other passengers must exit on the Swiss side.
+
+So far so good?
+
+You may not know this Swiss/French distiction beforehand, so when you rent 
+a car online, you might put in "Show me cars to rent at Geneva airport", 
+a bunch of results pop up, and you do your shopping. You can rent cars on either 
+the Swiss or French side, but the rental car sites don't make it abundantly 
+clear which side you're renting from, and if you don't know to look for it... well. 
+Anyway, when you arrive from your international flight, 
+you then proceed to either the rental car desks in the Swiss side, or you 
+first transit to the French side by showing your same-day boarding pass. 
+
+The problems arise when, like me, you've been in Geneva for a few days and 
+then decide to rent a car at the airport because it's cheaper than renting 
+one in the city. I found an affordable rental at The Airport, shlepped over 
+there (one 20 minute light-rail trip, one 9 minute train trip) with my 
+stuff, and made a few discoveries. 
+
+One, there's no information on whether 
+you go directly over to the rental car garage, or if you need to stop at 
+the rental car desk in the terminal first. Turns out I needed to stop by 
+the Thrifty desk at the terminal first, I found out after taking the bus over
+to the rental car garage. 
+
+Two, the rental car garage is literally like 200 yards from the terminal, so 
+I did a lot of waiting for something I could've easily walked.
+
+Three, as mentioned, there are two sectors to the airport, and I had a 
+reservation for the wrong side, and they wouldn't let me across as I 
+didn't have a *same day* boarding pass. (I hadn't just arrived by plane.)
+
+Four, there's no great way to get over to the French sector if you're denied. 
+One airport worker declared it _impossible_, while another said that I could 
+perhaps find a taxi to take me over (?) but seemed unsure. 
+
+Five, lease surprising, it's really fucking expensive to rent a car same-day. 
+Hertz and Avis were quoting me something like $120 USD/day, Eurocar didn't 
+have any, and Sixt's systems went down everywhere just before I arrived (which 
+I believed, as they started turning away other comers, too). 
+
+So I bailed on the car. There was no penalty to canceling my reservation (which was 
+sitting on the French side), and there were other options. I knew I had to 
+make it to Chamonix or lose my hotel room, so I booked an [AlpyBus](https://alpybus.com/) 
+ticket (either 35 Sfr or Euro) that left in 30 minutes. It had the advantages of being 
+airport-to-hotel service, which freed up some logistical overhead, and plus it gave me the 
+opportunity to actually enjoy the trip over instead of worrying about driving. 
 
 
 ## Logistics
+
+As mentioned above, my plan was to keep arrangements flexible so I could
+call audibles along the way and go where my desires took me. This ended 
+up being hard to achieve, and caused more friction than benefit. 
+
+It meant that instead of spending mid-days doing activities, I was 
+in-transit between hotels instead. And while hotels will store your 
+bags for you, the gap between 11am checkout and 4pm check-in meant I 
+didn't have a place to crash out during those hours if I wanted to. 
+
 
 ## Hiking
 
