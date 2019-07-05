@@ -36,19 +36,17 @@ very proud of. It's... giant. High, vaulting ceilings and so much
 space. The business lounge was comically difficult to find but 
 otherwise the signage was good. It was a very long walk to my gate. 
 As far as I could tell they only had those squatting toilets and I 
-wasn't in any condition to give that a go.[^1] There are a lot of
+wasn't in any condition to give that a go. I can't imagine they don't 
+have Western-style toilets around with all the Westerners transiting 
+the airport. If they truly don't then it's a giant fucking oversight. 
+I was too tired to investigate 
+further, and language was a challenge. 
+
+There are a lot of
 "fit-and-finish" type problems with the airport where it looks like 
 it was a rush job at the end or they don't have enough maintenance 
 staff -- cracked tiles, dirt along edges of wall, carpet misaligned,
 shoddy caulking in the bathroom. The airport overall, though, is a 
 feat of engineering.
 
-<img src="../assets/2019-switzerland-leaving-istanbul.jpg" width="480">
-
-
-
-
-[^1]: I can't imagine they don't have Western-style toilets around 
-with all the Westerners transiting the airport. If they truly don't 
-then it's a giant fucking oversight. I was too tired to investigate 
-further, and language was a challenge.
+<img src="../assets/2019-switzerland-leaving-istanbul.jpg" width="800">
