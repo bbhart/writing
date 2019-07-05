@@ -43,10 +43,32 @@ I was too tired to investigate
 further, and language was a challenge. 
 
 There are a lot of
-"fit-and-finish" type problems with the airport where it looks like 
+"fit-and-finish" type issues with the airport where it looks like 
 it was a rush job at the end or they don't have enough maintenance 
 staff -- cracked tiles, dirt along edges of wall, carpet misaligned,
 shoddy caulking in the bathroom. The airport overall, though, is a 
 feat of engineering.
 
-<img src="../assets/2019-switzerland-leaving-istanbul.jpg" width="800">
+The Istanbul to Geneva flight was uneventful. I did manage to 
+snap this photo shortly after departure:
+<img src="../assets/2019-switzerland-leaving-istanbul.jpg" width="800"/>
+
+Arriving in Geneva was a breeze. I feel like my whole time in the 
+airport took maybe 15 minutes...? That includes passing through 
+passport control, getting my bag, and finding a taxi. 
+
+<img src="../assets/2019-switzerland-arriving-geneva-plane.jpg" width="800"/>
+
+Met up with friend Joshua (who lives across the street from my hotel) for
+some whiskey and catching up:
+
+<img src="../assets/2019-switzerland-barnunord.jpg" width="800"/>
+
+Where we came across this well-dressed angry guy:
+
+<img src="../assets/2019-switzerland-welldressedangryguy.jpg" width="800"/>
+
+There was a lot of arguing in French between him and the whiskey bar 
+proprietors, with them throwing a bucket of water at his feet (but not on) 
+as ultimate insult of some sort. He wandered off after a few minutes. ¯\_(ツ)_/¯
+
