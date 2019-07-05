@@ -6,11 +6,28 @@ kids were in Canada for the summer with relatives.
 
 I booked the trip in January 2019 after researching a bunch of other 
 options. Switzerland had the right combination of 1) someone I know 
-lives here, 2) not likely to be sweltering hot (lol!), 3) relatively  
-easy to get to other places nearby, 4) found a decent deal on a 
-business class plane ticket, and 5) different enough from the US but 
+lives here, 2) not likely to be sweltering hot (lol! see below), 
+3) relatively  easy to get to other places nearby, 4) found a decent deal 
+on a business class plane ticket, and 5) different enough from the US but 
 not so different that language or culture differences would cause a
 lot of friction.
+
+Not planning on a day-to-day recap in this post, but so that I have
+a fighting chance of remembering where I went and what I did later:
+- Day 1: arrive, brief drinks with Joshua
+- Day 2: touring around Geneva. Street food festival, Carouge farmers
+  market, UN Club in the evening with friends
+- Day 3: more touring around Geneva. Street food festival again,
+  Bains des Pâquis, walking around the old town
+- Day 4: rental car fuckery, Alpybus to Chamonix, walk from Hôtel Mercure 
+  Chamonix Les Bossons into town, wicked thunderstorm.
+- Day 5: move from Hôtel Mercure to Heliopic, Aiguille du Midi, 
+  caught in the rain coming back from dinner. 
+- Day 6: Chamonix to Geneva (9 euro swisstours bus), train to interlaken,
+  Hotel Lötschberg, Italian place across from mall.
+- Day 7: up to Harder Kulm on Harderbahn, hike down (in a time crunch),
+  trains back to Geneva.
+- Day 8: 
 
 ## Itinerary
 For reference, the only pre-planned arrangements were:
@@ -71,4 +88,13 @@ Where we came across this well-dressed angry guy:
 There was a lot of arguing in French between him and the whiskey bar 
 proprietors, with them throwing a bucket of water at his feet (but not on) 
 as ultimate insult of some sort. He wandered off after a few minutes. ¯\_(ツ)_/¯
+
+
+## Logistics
+
+## Hiking
+
+## Cooperation
+
+
 
