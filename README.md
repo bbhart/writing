@@ -1,2 +1,5 @@
-# writing
-Since there isn't a blog platform I'm happy with...
+
+# General
+
+# Travels
+- [Switzerland 2019](travels/switzerland.md)
