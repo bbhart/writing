@@ -192,9 +192,3 @@ along the way that for next time:
   preferable to hauling around 9 days of clothes... and I'm sure I could find 
   a much better deal within a few blocks of the hotel here if I applied myself. 
 
-## Hiking
-
-## Cooperation
-
-
-
