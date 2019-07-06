@@ -14,20 +14,21 @@ lot of friction.
 
 Not planning on a day-to-day recap in this post, but so that I have
 a fighting chance of remembering where I went and what I did later:
-- Day 1: arrive, brief drinks with Joshua
-- Day 2: touring around Geneva. Street food festival, Carouge farmers
-  market, UN Club in the evening with friends
-- Day 3: more touring around Geneva. Street food festival again,
+- Day 1 (Friday): arrive, whiskey with Joshua
+- Day 2 (Saturday): touring around Geneva. Street food festival, Carouge farmers
+  market, UN Club (beach) in the evening with friends
+- Day 3 (Sunday): more touring around Geneva. Street food festival again,
   Bains des Pâquis, walking around the old town
-- Day 4: rental car fuckery, Alpybus to Chamonix, walk from Hôtel Mercure 
+- Day 4 (Monday): rental car fuckery, Alpybus to Chamonix, walk from Hôtel Mercure 
   Chamonix Les Bossons into town, wicked thunderstorm.
-- Day 5: move from Hôtel Mercure to Heliopic, Aiguille du Midi, 
+- Day 5 (Tuesday): move from Hôtel Mercure to Heliopic, Aiguille du Midi, 
   caught in the rain coming back from dinner. 
-- Day 6: Chamonix to Geneva (9 euro swisstours bus), train to interlaken,
+- Day 6 (Wednesday): Chamonix to Geneva (9 euro swisstours bus), train to interlaken,
   Hotel Lötschberg, Italian place across from mall.
-- Day 7: up to Harder Kulm on Harderbahn, hike down (in a time crunch),
+- Day 7 (Thursday): up to Harder Kulm on Harderbahn, hike down (in a time crunch),
   trains back to Geneva.
-- Day 8: 
+- Day 8 (Friday): CERN, dinner with Joshua and Max, tomato festival
+- Day 9 (Saturday): 
 
 ## Itinerary
 For reference, the only pre-planned arrangements were:
@@ -138,11 +139,12 @@ have any, and Sixt's systems went down everywhere just before I arrived (which
 I believed, as they started turning away other comers, too). 
 
 So I bailed on the car. There was no penalty to canceling my reservation (which was 
-sitting on the French side), and there were other options. I knew I had to 
+sitting on the French side), and there were other trnasport options. I knew I had to 
 make it to Chamonix or lose my hotel room, so I booked an [AlpyBus](https://alpybus.com/) 
 ticket (either 35 Sfr or Euro) that left in 30 minutes. It had the advantages of being 
-airport-to-hotel service, which freed up some logistical overhead, and plus it gave me the 
-opportunity to actually enjoy the trip over instead of worrying about driving. 
+airport-to-hotel service, which freed up some logistical overhead once in 
+Chamonix, and plus it gave me the opportunity to actually enjoy the trip over 
+instead of worrying about driving. 
 
 
 ## Logistics
@@ -156,6 +158,39 @@ in-transit between hotels instead. And while hotels will store your
 bags for you, the gap between 11am checkout and 4pm check-in meant I 
 didn't have a place to crash out during those hours if I wanted to. 
 
+I was spending at least an hour a day planning for the next day. What town would I 
+go to? How would I get there? Are there trains? What times? What about hotels? 
+How do the reviews look? Is it a relatively decent price for the quality of the hotel? 
+Is the hotel near the train station? If not, what does the bus system look like 
+there? Are the activities near the hotel, since I'll need to drop my bags? Or 
+should I book a different hotel that's closer to things to do but further from 
+the train station? Etc etc etc. I get that sometimes you have to say fuck it and 
+click the Book Now button, but I wanted to at least make educated choices. 
+
+Day 6 -- Wednesday evening --I reached my limit for the daily planning exercise while 
+in my Interlaken hotel room. Working through the questions above, I decided to trim 
+down the daily logistical chore by heading back to Geneva. From there, I'd have 
+a home base in a hotel I was familiar with and was affordable, in an area where 
+there was plenty to do and easy access to trains to other places. I'm here until
+the end of the trip.
+
+Each person has their own travel preferences, but for me, I've learned 
+along the way that for next time:
+- Visit few places, stay longer. The decisions to book a second day in Chamonix, 
+  and to wait until later in the afternoon to leave Interlaken, both 
+  made big differences. 
+- Map out transit in advance. I ended up doing _okay_ working it out on-the-fly (with 
+  the exception of the rental car snafu, which I'm not convinced was avoidable),
+  but I could've optimised by taking Swisstours ($9) instead of Alpybus ($35), 
+  for example, with better planning. 
+- Research activities in advance. It was a fairly long and steep walk to 
+  the Brévent cable car, only to find out the second lift to the very top was 
+  already closed. Bad planning.
+- Pack lighter. This is less of an issue if visiting fewer places, but I could've
+  cut down some. Having to haul the CPAP machine around does limit me, though. 
+  The hotel wants 10 Sfr to launder a single shirt but that still might be 
+  preferable to hauling around 9 days of clothes... and I'm sure I could find 
+  a much better deal within a few blocks of the hotel here if I applied myself. 
 
 ## Hiking
 
