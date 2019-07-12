@@ -28,7 +28,8 @@ a fighting chance of remembering where I went and what I did later:
 - Day 7 (Thursday): up to Harder Kulm on Harderbahn, hike down (in a time crunch),
   trains back to Geneva.
 - Day 8 (Friday): CERN, dinner with Joshua and Max, tomato festival
-- Day 9 (Saturday): 
+- Day 9 (Saturday): walk through Parc de la Grange and neighborhood, 
+  "baby beach" with Joshua and Max, walk in the Pride Parade.
 
 ## Itinerary
 For reference, the only pre-planned arrangements were:
@@ -58,14 +59,17 @@ wasn't in any condition to give that a go. I can't imagine they don't
 have Western-style toilets around with all the Westerners transiting 
 the airport. If they truly don't then it's a giant fucking oversight. 
 I was too tired to investigate 
-further, and language was a challenge. 
+further, and language was a challenge. (Update: scoped out the 
+toilet situation a bit on my return flight and turns out most of 
+them are actually Western-style... just my bad luck on the 
+flight out. _shrug_)
 
 There are a lot of
 "fit-and-finish" type issues with the airport where it looks like 
 it was a rush job at the end or they don't have enough maintenance 
 staff -- cracked tiles, dirt along edges of wall, carpet misaligned,
-shoddy caulking in the bathroom. The airport overall, though, is a 
-feat of engineering.
+shoddy caulking in the bathroom, dirty hallway ceilings. The 
+airport overall, though, is a feat of engineering.
 
 The Istanbul to Geneva flight was uneventful. I did manage to 
 snap this photo shortly after departure:
@@ -167,7 +171,7 @@ should I book a different hotel that's closer to things to do but further from
 the train station? Etc etc etc. I get that sometimes you have to say fuck it and 
 click the Book Now button, but I wanted to at least make educated choices. 
 
-Day 6 -- Wednesday evening --I reached my limit for the daily planning exercise while 
+Day 6 -- Wednesday evening -- I reached my limit for the daily planning exercise while 
 in my Interlaken hotel room. Working through the questions above, I decided to trim 
 down the daily logistical chore by heading back to Geneva. From there, I'd have 
 a home base in a hotel I was familiar with and was affordable, in an area where 
@@ -191,4 +195,45 @@ along the way that for next time:
   The hotel wants 10 Sfr to launder a single shirt but that still might be 
   preferable to hauling around 9 days of clothes... and I'm sure I could find 
   a much better deal within a few blocks of the hotel here if I applied myself. 
+
+## Interlaken
+
+Interlaken gets its own section. It was notable for a few reasons. 
+
+First, it's achingly beautiful. It's ridiculous, really.
+<img src="../assets/2019-switzerland-interlaken-1.jpg" width="800"/>
+<img src="../assets/2019-switzerland-interlaken-2.jpg" width="800"/>
+
+Second, my trip up and down the hill. I took the 
+[Harderbahn](https://www.jungfrau.ch/en-gb/corporate/jungfrau-railways/jungfraubahn-holding-ag/harderbahn-ag/) funicular up [Harder Kuln](https://www.jungfrau.ch/en-gb/harder-kulm/) with 
+the goal of hiking back down before my 2:05pm train. 
+
+Amazing views up there, with expensive but unsurprising pricing.
+<img src="../assets/2019-switzerland-interlaken-3.jpg" width="800"/>
+
+I'm still feeling the impact the hike down had on my body. It's 
+around a 400m vertical hike and my legs were *not* prepared. I managed to 
+make it down the hill (despite getting lost for about 10 minutes) but my legs 
+were in not-good shape by the end. Sure enough, the following three days were 
+*really* rough for walking, and I'm still feeling some soreness in my calf 
+muscles here eight days later. 
+
+Sitting at the top, feasting on my $7 Cup Noodles, I was well-positioned to see 
+hikers who were reaching the top. Whereas I would be gasping for breath and possibly 
+praying for the sweet release of death, the hikers I witnessed seemed no worse for 
+wear.
+
+Third, my hotel. It's decidedly no-frills, but was exactly what I was looking for. 
+<img src="../assets/2019-switzerland-interlaken-lotschberg.jpg" width="800"/>
+
+See that balcony above the welcome sign? That was my room. It was a single-person room 
+and only $110/ni, which was quite the deal compared to the other swankier places in town.
+There aren't amenities here like food and beverage, pool, and the like, but they 
+have a friendly and functional living room downstairs, plus a sun deck with loungers 
+and a large working table on the first (which is really the second) floor. The staff 
+was exceedingly friendly, and it's also very close to the Interlaken-West train 
+station and a mall. 
+
+My plan was to use Interlaken as my base for day-tripping down to Lauterbrunnen and 
+Mürren but I ran out of time. Next time?
 
