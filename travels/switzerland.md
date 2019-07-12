@@ -224,7 +224,8 @@ praying for the sweet release of death, the hikers I witnessed seemed no worse f
 wear.
 
 Third, my hotel. It's decidedly no-frills, but was exactly what I was looking for. 
-<img src="../assets/2019-switzerland-interlaken-lotschberg.jpg" width="800"/>
+<img src="../assets/2019-switzerland-lotschberg.jpg" width="800"/>
+
 
 See that balcony above the welcome sign? That was my room. It was a single-person room 
 and only $110/ni, which was quite the deal compared to the other swankier places in town.
