@@ -84,7 +84,7 @@ passport control, getting my bag, and finding a taxi.
 Met up with friend Joshua (who lives across the street from my hotel) for
 some whiskey and catching up:
 
-<img src="../assets/2019-switzerland-barnunord.jpg" width="800"/>
+<img src="../assets/2019-switzerland-bardunord.jpg" width="800"/>
 
 Where we came across this well-dressed angry guy:
 
@@ -196,11 +196,42 @@ along the way that for next time:
   preferable to hauling around 9 days of clothes... and I'm sure I could find 
   a much better deal within a few blocks of the hotel here if I applied myself. 
 
+## Chamonix
+
+[Chamonix-Mont-Blanc](https://en.wikipedia.org/wiki/Chamonix) (or Chamonix) wasn't 
+really on my radar when I was mapping out my trip. I had French Riviera on the list,  
+but down toward the bottom in Unlikely territory. Mont-Blanc was toward the middle 
+behind places like Mürren, Zermatt, and Lauterbrunnen. It's only ~90 minutes 
+from Geneva, though, and several people strongly encouraged me to make Chamonix a 
+stop on my journey.
+
+I'd booked the [Mercure Chamonix Les Bossons Hotel](https://www.accorhotels.com/gb/hotel-0411-mercure-chamonix-les-bossons-hotel/index.shtml) the day before. It's 
+on the outskirts of town, but no big deal, since I'll have a car! Except... well...
+see the **Geneva Airport** section above. It didn't end up being too problematic 
+as the Alpybus had service directly to the door of my hotel; double bonus was 
+since it's the first hotel as you get into town, I was dropped off first!
+
+I made it to the hotel around 12:30pm and tried to check in. No surprise, room wasn't 
+ready, so I prepped a day pack and left my other gear with the hotel. Similar to what
+I encountered in Geneva, the hotel had a free transit (bus, in this case) pass for 
+tourists. There's a bus stop *right next to* the hotel, but the bus only picks up 
+from that stop a few times in the morning, and I'd missed the last one for the day. 
+The next nearest stop was a 1/2 mile away along a small two lane road. No problem, 
+the walk was gorgeous.
+
+<img src="../assets/2019-switzerland-chamonix-1.jpg" width="800"/>
+
+The bus runs every half hour from that stop and I'd missed it by 2-3 minutes, so I 
+decided to keep walking toward town. It was hot, but I'm *soooo* glad I made the trek.
+
+<img src="../assets/2019-switzerland-chamonix-2.jpg" width="800"/>
+<img src="../assets/2019-switzerland-chamonix-3.jpg" width="800"/>
+
+
+
 ## Interlaken
 
-Interlaken gets its own section. It was notable for a few reasons. 
-
-First, it's achingly beautiful. It's ridiculous, really.
+[Interlaken](https://en.wikipedia.org/wiki/Interlaken) is achingly beautiful. It's ridiculous, really.
 <img src="../assets/2019-switzerland-interlaken-1.jpg" width="800"/>
 <img src="../assets/2019-switzerland-interlaken-2.jpg" width="800"/>
 
