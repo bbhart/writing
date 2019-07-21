@@ -44,7 +44,9 @@ below.
 
 ## Getting Here
 I took two flights, both on Turkish Airlines: a 13 hour from SFO to 
-Istanbul, and a 3 1/2 further flight to Geneva. 
+Istanbul, and a 3 1/2 further flight to Geneva. Yes, Istanbul is 
+out of the way, but I ended up with a pretty good deal on business 
+class tickets, so I went for it.
 
 The SFO flight landed around 5pm and the Geneva flight was scheduled 
 for around 7pm. 
@@ -226,6 +228,12 @@ decided to keep walking toward town. It was hot, but I'm *soooo* glad I made the
 
 <img src="../assets/2019-switzerland-chamonix-2.jpg" width="800"/>
 <img src="../assets/2019-switzerland-chamonix-3.jpg" width="800"/>
+
+Since the Chamonix trip was fairly spontaneous, I hadn't done much research into 
+activities. There's a cable car that goes to [Aiguille du Midi]
+(https://www.chamonix.net/english/leisure/sightseeing/aiguille-du-midi), 3842m up! 
+[On the other side of Chamonix(https://www.chamonix.com/planpraz-brevent,82,en.html)
+is the gondola to Plan Praz (up to 2000m) and then a cable car onward to Brévent (2525m). 
 
 
 
