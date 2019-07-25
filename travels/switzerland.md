@@ -201,7 +201,7 @@ along the way that for next time:
 ## Chamonix
 
 [Chamonix-Mont-Blanc](https://en.wikipedia.org/wiki/Chamonix) (or Chamonix) wasn't 
-really on my radar when I was mapping out my trip. I had French Riviera on the list,  
+really on my radar when I was mapping out my trip. I had French Riviera on the list,
 but down toward the bottom in Unlikely territory. Mont-Blanc was toward the middle 
 behind places like Mürren, Zermatt, and Lauterbrunnen. It's only ~90 minutes 
 from Geneva, though, and several people strongly encouraged me to make Chamonix a 
@@ -230,8 +230,8 @@ decided to keep walking toward town. It was hot, but I'm *soooo* glad I made the
 <img src="../assets/2019-switzerland-chamonix-3.jpg" width="800"/>
 
 Since the Chamonix trip was fairly spontaneous, I hadn't done much research into 
-activities. The tourist office fixed me up. There's a cable car that goes to [Aiguille du Midi]
-(https://www.chamonix.net/english/leisure/sightseeing/aiguille-du-midi), 3842m up! 
+activities. The tourist office fixed me up. There's a cable car that goes to 
+[Aiguille du Midi](https://www.chamonix.net/english/leisure/sightseeing/aiguille-du-midi), 3842m up! 
 [On the other side of Chamonix](https://www.chamonix.com/planpraz-brevent,82,en.html)
 is the gondola to Plan Praz (up to 2000m) and then a cable car onward to Brévent (2525m). 
 Then there's the [Montenvers Train](https://www.chamonix.com/montenvers-mer-de-glace,81,en.html), 
@@ -253,17 +253,16 @@ Dinner was at the hotel:
 <img src="../assets/2019-switzerland-chamonix-5.jpg" width="800"/>
 
 ... followed by [the most intense thunderstorm I've experienced since leaving Florida  
-in 2013](../assets/2019-switzerland-chamonix-storm.mov). It was wild. Even the staff was left 
+in 2013](https://vimeo.com/350173369). It was wild. Even the staff was left 
 wondering wtf was going on. Eventually the show was over and I turned in.
 
-Day 2 in Chamonix. 
+**Day 2 in Chamonix*
 
 Pack stuff and move hotels. This is when my pack-and-move frustration started to set in. I 
-hopped the bus right outside the hotel and made my way to Chamonix Sud and the [Heliopic Hotel]
-(https://www.heliopic-hotel-spa.com/), more in the middle of things. 
+hopped the bus right outside the hotel and made my way to Chamonix Sud and the 
+[Heliopic Hotel](https://www.heliopic-hotel-spa.com/), more in the middle of things. 
 
 <img src="../assets/2019-switzerland-chamonix-6.jpg" width="800"/>
-
 
 
 ## Interlaken
