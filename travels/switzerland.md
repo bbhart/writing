@@ -256,7 +256,7 @@ Dinner was at the hotel:
 in 2013](https://vimeo.com/350173369). It was wild. Even the staff was left 
 wondering wtf was going on. Eventually the show was over and I turned in.
 
-**Day 2 in Chamonix*
+**Day 2 in Chamonix**
 
 Pack stuff and move hotels. This is when my pack-and-move frustration started to set in. I 
 hopped the bus right outside the hotel and made my way to Chamonix Sud and the 
@@ -264,6 +264,30 @@ hopped the bus right outside the hotel and made my way to Chamonix Sud and the
 
 <img src="../assets/2019-switzerland-chamonix-6.jpg" width="800"/>
 
+
+Aiguille du Midi was memorable. The complex at the top would make a formidable 
+zombieproof fortress. I was thankful for my hoodie -- the temperature went from 
+around 68F to 36F between mid-point and top.
+
+<img src="../assets/2019-switzerland-chamonix-7.jpg" width="800"/>
+<img src="../assets/2019-switzerland-chamonix-8.jpg" width="800"/>
+<img src="../assets/2019-switzerland-chamonix-9.jpg" width="800"/>
+<img src="../assets/2019-switzerland-chamonix-10.jpg" width="800"/>
+
+I had strongly considered hiking down from the mid-point but I was short on 
+water and the trail (at least at the top) was not well marked and difficult 
+to follow. If I recall, the vertical drop from there was ~1000-1200 feet. I
+would make a similar downhill hike in Interlaken two days later, destroying 
+my quad and calf muscles in the process.
+
+Instead, I had a "hot dog":
+<img src="../assets/2019-switzerland-chamonix-12.jpg" width="800"/>
+
+And sat on the balcony of my room at the Heliopic and watch the cars go by:
+<img src="../assets/2019-switzerland-chamonix-11.jpg" width="800"/>
+
+Later in the evening, me and my laptop would make a rain-soaked dash from 
+[Pointe Isabelle](https://goo.gl/maps/MuV6LRqyCyfBzLzC7) back to the hotel. 
 
 ## Interlaken
 
