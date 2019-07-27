@@ -280,10 +280,10 @@ to follow. If I recall, the vertical drop from there was ~1000-1200 feet. I
 would make a similar downhill hike in Interlaken two days later, destroying 
 my quad and calf muscles in the process.
 
-Instead, I had a "hot dog":
+Instead, I had a "hot dog" at the Aiguille du Midi mid-point:
 <img src="../assets/2019-switzerland-chamonix-12.jpg" width="800"/>
 
-And sat on the balcony of my room at the Heliopic and watch the cars go by:
+And sat on the balcony of my room at the Heliopic and watch the cable cars go by:
 <img src="../assets/2019-switzerland-chamonix-11.jpg" width="800"/>
 
 Later in the evening, me and my laptop would make a rain-soaked dash from 
@@ -317,7 +317,6 @@ wear.
 Third, my hotel. It's decidedly no-frills, but was exactly what I was looking for. 
 <img src="../assets/2019-switzerland-lotschberg.jpg" width="800"/>
 
-
 See that balcony above the welcome sign? That was my room. It was a single-person room 
 and only $110/ni, which was quite the deal compared to the other swankier places in town.
 There aren't amenities here like food and beverage, pool, and the like, but they 
@@ -329,3 +328,48 @@ station and a mall.
 My plan was to use Interlaken as my base for day-tripping down to Lauterbrunnen and 
 Mürren but I ran out of time. Next time?
 
+## Geneva
+
+When arriving, I was in and out of the Geneva airport in around 20 minutes from when 
+the airplane door opened. That includes walking, clearing customs and immigration, 
+getting my bag from baggage claim, and walking outside and into a taxi. Being the 
+first person off the plane probably helped *some*, but they were processing 
+people and bags pretty efficiently nonetheless. Amazing, and quite welcome after 20 
+hours of travel.
+
+Geneva grew on me quickly. It's large enough for there to be a proper transit in place and 
+an airport with decent connections, but small enough where you feel like you could 
+be confident after a few months of living there. As a tourist, 
+key locations like the airport, central train station, the lake, and other points 
+of interest were easy to get to using the (free to tourists!) transit system. Language 
+was never a serious problem; there were a few hiccups (like chatting with a cider vendor 
+at the Carouge farmers market) but we worked through them without too much fuss. 
+
+I was very pleased with my "home" hotel, the 
+[ibis Styles Geneve Carouge Hotel](https://www.accorhotels.com/gb/hotel-6863-ibis-styles-geneve-carouge/index.shtml). 
+First and foremost, they had air conditioning. This is not always a guarantee in Geneva, even in 
+more expensive hotels. We were in the midst of a heat wave and the A/C was a lifesaver, 
+especially recovering from jet lag. Second, the hotel is very new. Google 
+was still showing the old buildings that used to be there when I was exploring in 
+VR with Google Earth. Breakfast and coffee was great, and the staff was friendly. And the 
+best part is that it's *literally* across the street from where my friend lives. 
+
+<img src="../assets/2019-switzerland-geneva-1.jpg" width="800"/>
+
+The 12 and 18 trains stop right outside the hotel. Central Geneva and the [regional 
+train station](http://www.geneva.info/gare-cornavin/) were easily accessible using 
+either of these trains, which run every 4 minutes during busy times. If you take the 18 train 
+all the way to the end it terminates at [CERN](https://visit.cern/tours). 
+
+<img src="../assets/2019-switzerland-geneva-2.jpg" width="800"/>
+
+All of this wraps around the beautiful Lake Geneva (locally, Lac Léman). As mentioned above,
+I arrived in Geneva in the midst of a heat wave. Friend Joshua and I managed through Saturday's 
+heat in part by good eats and wine at a street food festival, but Sunday we relented and 
+hit [Bains des Pâquis a/k/a "the beach"](https://www.bains-des-paquis.ch/en) and the 
+~18C / ~64F lake water. It was... brisk but refreshing. We did several other lake-oriented 
+things, like [UN Port](https://unport.org/) and [Baby Beach](https://www.geneve.com/en/attractions/baby-beach/),
+but the Bains des Pâquis was my favorite.
+
+There's so much more I want to write about Geneva but I don't want to drone on. I'll end with this: 
+it's the only European city I've been to so far that I could imagine living and raising my kids in. 
