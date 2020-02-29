@@ -1,6 +1,7 @@
 # COVID-19 Journal
 My own journal of links, thoughts, and experiences around COVID-19.
 
+
 ## General
 Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/news/coronavirus-official-updates-4513283/)
 
