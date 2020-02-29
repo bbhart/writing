@@ -10,8 +10,7 @@ Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/new
 Picked up a little more food to have around the house, but not to full prepper level or anything. 
 
 Today I'm around 80% confident schools will close either late this week (start date of 3/5 or 3/6) or early next week, either 
-through direct action of the CUSD School Board, or indirectly due to unprecedented absences. I have a personal air trip 
-booked for 3/12 that I'm ~80% confident will either be canceled by the airline or I'll choose to cancel without refund.
+through direct action of the CUSD School Board, or indirectly due to unprecedented absences. 
 
 COVID-19 has accelerated locally:
 * News: [Los Altos Town Crier: Coronavirus patient treated at El Camino Hospital](https://www.losaltosonline.com/news/sections/news/61987-coronavirus-victim-treated-at-el-camino-hospital) -- at ~3.5 miles from our house, this is our nearest hospital, and the one we would go to if needed
