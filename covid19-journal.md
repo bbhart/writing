@@ -6,8 +6,11 @@ Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/new
 
 ## Mar 1, 2020
 
-* Paper: [ScienceDirect: Harnessing wearable device data to improve state-level real-time surveillance of influenza-like illness in the USA: a population-based study](https://www.sciencedirect.com/science/article/pii/S2589750019302225). tl;dr there's evidence to suggest influenza-like illnesses could be tracked by analyzing resting heart rate and sleep data from FitBit/Apple Watch type devices.
-* Article: [Harvard Medical School / Harvard Health Blog: As coronavirus spreads, many questions and some answers](https://www.health.harvard.edu/blog/as-coronavirus-spreads-many-questions-and-some-answers-2020022719004). FAQ and answers from an MD. 
+* [ScienceDirect: Harnessing wearable device data to improve state-level real-time surveillance of influenza-like illness in the USA: a population-based study](https://www.sciencedirect.com/science/article/pii/S2589750019302225). tl;dr there's evidence to suggest influenza-like illnesses could be tracked by analyzing resting heart rate and sleep data from FitBit/Apple Watch type devices.
+* [Harvard Medical School / Harvard Health Blog: As coronavirus spreads, many questions and some answers](https://www.health.harvard.edu/blog/as-coronavirus-spreads-many-questions-and-some-answers-2020022719004). FAQ and answers from an MD. 
+* [NASA: Airborne Nitrogen Dioxide Plummets Over China](https://earthobservatory.nasa.gov/images/146362/airborne-nitrogen-dioxide-plummets-over-china). 
+
+![Nitrogen levels drop over China](assets/2020-mar-1-nitrogen-drop.png)
 
 ## Feb 29, 2020
 
