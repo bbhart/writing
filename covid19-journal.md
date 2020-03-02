@@ -4,6 +4,21 @@ My own journal of links, thoughts, and experiences around COVID-19.
 ## General
 Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/news/coronavirus-official-updates-4513283/)
 
+## Mar 2, 2020
+
+I woke up at 3am, feeling very warm despite us keeping the house at 62F overnight. Sleep was hit-and-miss from there on until I roused the kids at 6:50am. It didn't occur to me to check my temperature until 8:15am or so; I figured I was miserable from bad sleep. Ear thermometer read 100.7 in one ear and 101.1 in the other. I stayed home from work. A mid-afternoon check showed me at 102.1. 
+
+As of 2:45pm, my symptoms are 102.1 fever and very mild joint aches. Breathing seems fine. Sinuses are somewhat caked but not necessarily worse than average for the dry air here. 
+
+Some links from today:
+* [Tampa Bay Times: Florida’s first coronavirus cases found in Hillsborough and Manatee counties](https://www.tampabay.com/florida-politics/buzz/2020/03/02/first-patients-in-florida-test-positive-for-coronavirus/). 
+* From Twitter, [The CDC has stopped disclosing the number of Americans tested for coronavirus.](https://twitter.com/juddlegum/status/1234536619270688768), which would be concerning.
+* [The New Arab: WATCH: Iranian pilgrims taunt coronavirus with ‘communal licking’ of religious shrines despite outbreak](https://www.alaraby.co.uk/english/news/2020/3/1/watch-iran-pilgrims-taunt-coronavirus-by-licking-religious-shrines). Not ideal. 
+* From Twitter, [could Steve Wozniak be NorCal patient zero?](https://twitter.com/stevewoz/status/1234575727678435328) 
+
+![Steve Wozniak tweet](assets/2020-mar-2-woz.png)
+
+
 ## Mar 1, 2020
 
 * [ScienceDirect: Harnessing wearable device data to improve state-level real-time surveillance of influenza-like illness in the USA: a population-based study](https://www.sciencedirect.com/science/article/pii/S2589750019302225). tl;dr there's evidence to suggest influenza-like illnesses could be tracked by analyzing resting heart rate and sleep data from FitBit/Apple Watch type devices.
