@@ -4,9 +4,35 @@ My own journal of links, thoughts, and experiences around COVID-19.
 ## General
 Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/news/coronavirus-official-updates-4513283/)
 
+## Mar 3, 2020
+
+"Unusual times."
+
+There was a video circulating around a month ago where drones in China were harassing people who were out during quarantine. The drones had speakers attached and nearby pilots would inform people they should go home, wash their hands, and put on their masks. It was an interesting use of tech -- novel but also a little dystopian. The phrase "these are unusual times" is heard a few times. Maybe it's the translation, but it's a phrase that's stuck with me the past four weeks, and one I find myself uttering to myself more and more.
+
+I woke up not feeling amazing, but the fever was gone and I had no other symptoms, so I went to work. 
+
+
+
+* [KRON4: Santa Clara County confirms 2 new coronavirus cases](https://www.kron4.com/news/bay-area/santa-clara-county-confirms-2-new-coronavirus-cases/), bringing the total confirmed to 11. The two new people are in self-quarantine.
+
+* [Buzzfeed: Senators Insist They Will Be Fine During A Coronavirus Outbreak And Won’t Need To Shut Down Congress](https://www.buzzfeednews.com/article/paulmcleod/senate-coronavirus-congress-plan). `‾\_(ツ)_/‾`
+
+* [The Philadelphia Inquirer: The coronavirus seems to be mild in most children, but scientists are not sure why](https://www.inquirer.com/health/coronavirus-children-death-flu-immune-20200219.html). This one's a little older, from Feb 19. It's possible there's newer information out. I'll have to check.
+
+* [Vox: China’s cases of Covid-19 are finally declining. A WHO expert explains why.](https://www.vox.com/2020/3/2/21161067/coronavirus-covid19-china). 
+
+Our internal #coronavirus slack channel exploded today, jumping from ~80 in the morning to ~250 by end of day. As you might imagine, there was lots of chatter there all day.
+
+Coronavirus precautions at work are a mixed bag. "Foot grabs" have magically appeared on restroom doors in the last day or so, which is fine for my building, but less fine for the buildings with latching restroom door handles. There are additional hand sanitizer stations at the entrances to our cafes now, but nobody posted to strongly encourage (or guilt) people into using them. (They could learn some lessons from the cruise industry here, where they're pretty militant about it.) Office supply cabinets have been raided for hand sanitizers. I have some at my desk I used a few times, and I've been focused on not touching my face. 
+
+Lastly, an email went out to all of LinkedIn's ~14,000+ employees late in the evening from our head of HR sharing updates on how the company is managing coronavirus response. Several sales offices around the world are closed out of an abundance of caution, and HR opened the door for people who wish to work from home from now until March 9 (a date which I assume will be extended). 
+
+Unusual times.
+
 ## Mar 2, 2020
 
-I woke up at 3am, feeling very warm despite us keeping the house at 62F overnight. Sleep was hit-and-miss from there on until I roused the kids at 6:50am. It didn't occur to me to check my temperature until 8:15am or so; I figured I was miserable from bad sleep. Ear thermometer read 100.7 in one ear and 101.1 in the other. I stayed home from work. A mid-afternoon check showed me at 102.1. 
+I woke up at 3am feeling very warm despite us keeping the house at 62F overnight. Sleep was hit-and-miss from there on until I roused the kids at 6:50am. It didn't occur to me to check my temperature until 8:15am or so; I figured I was miserable from bad sleep. Ear thermometer read 100.7 in one ear and 101.1 in the other. I stayed home from work. A mid-afternoon check showed me at 102.1. 
 
 As of 2:45pm, my symptoms are 102.1 fever and very mild joint aches. Breathing seems fine. Sinuses are somewhat caked but not necessarily worse than average for the dry air here. 
 
