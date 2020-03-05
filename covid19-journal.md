@@ -4,6 +4,23 @@ My own journal of links, thoughts, and experiences around COVID-19.
 ## General
 Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/news/coronavirus-official-updates-4513283/)
 
+## Mar 4, 2020
+
+Definitely an escalation in response today, at least here in the SF Bay Area and in Seattle. 
+
+LinkedIn (my employer) this evening advised that "all Bay Area employees who are in a job that can be done from home should do so through the end of March, unless further guidance is provided." 
+
+A friend in the Seattle area shared this evening that his daughter's school district has closed schools indefinitely. They're going to switch to [Google Classroom](https://classroom.google.com/u/0/). 
+
+Our broken federal government is going to treat it like the Puerto Rico hurricane. This virus will disproportionately impact the most vulnerable among us, who can't afford to take time off from work, or afford to get tested, or even arrange care for their child whose school has been shut down. The school district may do remote classes, but the family might not be able to afford a laptop and Internet to connect.
+
+* [Santa Clara County: 3 new cases, bringing total to 14](https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/known-cases-of-coronavirus.aspx)
+* [Los Angeles Times: California declares coronavirus emergency amid worries over Grand Princess cruise ship passengers](https://www.latimes.com/california/story/2020-03-04/los-angeles-county-declares-coronavirus-emergency-6-new-cases). "Gov. Gavin Newsom declared a state of emergency over the novel coronavirus after a California man died after falling ill with the virus while on a cruise ship. Officials are trying to locate hundreds of other Californians who disembarked from the Grand Princess ship in San Francisco last month after a trip to Mexico."
+* [WHO: WHO Director-General's opening remarks at the media briefing on COVID-19 - 3 March 2020](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---3-march-2020). "[T]here are some important differences between COVID-19 and influenza... First, COVID-19 does not transmit as efficiently as influenza, from the data we have so far... The second major difference is that COVID-19 causes more severe disease than seasonal influenza... Third, we have vaccines and therapeutics for seasonal flu, but at the moment there is no vaccine and no specific treatment for COVID-19. However, clinical trials of therapeutics are now being done, and more than 20 vaccines are in development."
+* [Yahoo News: Banknotes may be spreading coronavirus, World Health Organisation warns](https://news.yahoo.com/who-world-health-organisation-coronavirus-banknotes-warning-111019361.html?soc_src=hl-viewer&soc_trk=fb). Not everyone has the option to use a card.
+
+I take some comfort in the fact that I don't have to worry much about my children getting desperately sick. 
+
 ## Mar 3, 2020
 
 "Unusual times."
