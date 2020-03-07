@@ -4,6 +4,31 @@ My own journal of links, thoughts, and experiences around COVID-19.
 ## General
 Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/news/coronavirus-official-updates-4513283/)
 
+
+## Mar 7, 2020
+
+I needed a few days away from writing, though I've been spending a considerable amount of time reading and conversing about coronavirus.
+
+Let's start with this:
+
+![US healthcare system capacity illustration](assets/2020-mar-7-capacity.jpg)
+
+I suspect this is why my employer -- and many others in this area -- have either mandated or strongly encouraged their employees to work from home. It's an assumption that we'll *all* be coming down with COVID-19 but that it needs to be spread out in order to have sufficient resourcing to keep the business running. 
+
+For me, there are two schools of thought here:
+1. Catch coronavirus sooner rather than later, so that if I do need to see a doctor, I can do so before the health system gets overstressed. Not saying that I'd _actively seek out_ to get COVID-19, but that I wouldn't be Howard Hughes paranoid about germs.
+1. Go full hermit to push back catching it as long as possible. It would have to be timed so that it's below the dotted line above. This means staying in, not letting the kids have friends over, eating from our stock of food, and probably getting on each other's nerves a lot. The idea here is to give the healthcare system a chance to scale up and/or work through cases, and scientists time to develop a vaccine.
+
+This cannot be contained at this point. US political leaders are either in denial or too stupid to realize this (flip a coin). 
+
+Assorted links from the past few days:
+* [Quest Diagnostics to Launch Coronavirus Disease 2019 (COVID-19) Test](https://newsroom.questdiagnostics.com/2020-03-05-Quest-Diagnostics-to-Launch-Coronavirus-Disease-2019-COVID-19-Test). Quest has a large network so this is welcome news.
+* [The Lancet: Therapeutic and triage strategies for 2019 novel coronavirus disease in fever clinics](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30071-0/fulltext). Includes an informative flowchart for triaging patients.
+* [Futurism: Coronavirus could force funerals to be livestreamed](https://futurism.com/the-byte/coronavirus-force-funerals-livestreamed). 
+* [Stanford Medicine: Stanford Medicine COVID-19 test now in use](https://med.stanford.edu/news/all-news/2020/03/stanford-medicine-COVID-19-test-now-in-use.html). "The Stanford Clinical Virology Laboratory has deployed an in-house diagnostic test for the virus that causes COVID-19. Rapid identification of infected people could help limit the spread of the virus." I also read a few days ago that University of Washington has also been working on a test since December and that it's either available now or would be shortly.
+* [San Francisco Chronicle: Coronavirus hits Bay Area: What residents need to know](https://www.sfchronicle.com/bayarea/article/Wuhan-coronavirus-Here-s-what-we-know-15000563.php). The Chronicle dropped the paywall on this article and has been updating it.
+
+
 ## Mar 4, 2020
 
 Definitely an escalation in response today, at least here in the SF Bay Area and in Seattle. 
