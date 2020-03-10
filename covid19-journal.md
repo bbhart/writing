@@ -6,7 +6,7 @@ Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/new
 
 ## Mar 10, 2020
 
-* I've had stomach flu since the evening of Saturday 7th. Sunday was easily one of the worst 10 days in recent memory. On Monday I dared to eat some oyster crackers and that went OK. Today -- Tuesday -- I ate an egg and some more crackers. I'm probably at 75% health but glad for it considering the past few days. Definitely wasn't the coronavirus, which I'm not looking forward to (I feel like it's unavoidable at this point, even with social distancing and hand-washing), but also want to get out of the way.
+* I've had stomach flu since the evening of Saturday 7th. Sunday is easily in my top 10 worst in recent memory. On Monday I dared to eat some oyster crackers and that went OK. Today -- Tuesday -- I ate an egg and some more crackers. I'm probably at 75% health but glad for it considering the past few days. Definitely wasn't the coronavirus, which I'm not looking forward to (I feel like it's unavoidable at this point, even with social distancing and hand-washing), but also want to get out of the way.
 
 * Son is home from school today with a slight fever, runny nose, and joint aches. 
 
