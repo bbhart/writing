@@ -4,6 +4,25 @@ My own journal of links, thoughts, and experiences around COVID-19.
 ## General
 Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/news/coronavirus-official-updates-4513283/)
 
+## Mar 10, 2020
+
+* I've had stomach flu since the evening of Saturday 7th. Sunday was easily one of the worst 10 days in recent memory. On Monday I dared to eat some oyster crackers and that went OK. Today -- Tuesday -- I ate an egg and some more crackers. I'm probably at 75% health but glad for it considering the past few days. Definitely wasn't the coronavirus, which I'm not looking forward to (I feel like it's unavoidable at this point, even with social distancing and hand-washing), but also want to get out of the way.
+
+* Son is home from school today with a slight fever, runny nose, and joint aches. 
+
+* The stock market had its largest one day point drop yesterday. It's up a little today but it's a trap.
+
+* As of March 9, in Santa Clara County there are 43 confirmed cases and 1 death. 21 currently hospitalized, with 10 in the ICU. Median age 58 years (range 20-89). Median age of hospitalized cases 66 (range 20-89). From [here](https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Documents/Infographic-Santa-Clara-County-CoronaVirus_8.pdf).
+
+* [Santa Clara County: Order Requiring Cancellation of Mass Gatherings of More than 1,000 Persons](https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/order-cancellation-mass-gatherings.aspx). The actual text of the order is [here](https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/order-health-officer-03092020.aspx). "Effective as of 12:00 a.m. on Wednesday, March 11, 2020, and continuing until 11:59 m. on March 31, 2020, public or private mass gatherings, defined below, are hereby prohibited in Santa Clara County ("County")."
+
+* [#FlattenTheCurve](https://twitter.com/hashtag/FlattenTheCurve) is trending on twitter today. See the chart from Mar 7 below on US healthcare system capacity. 
+
+* [NPR: Italy expands quarantine measures nationwide to stem spread of coronavirus](https://www.npr.org/sections/goatsandsoda/2020/03/09/813791575/italy-expands-quarantine-measures-nationwide-to-stem-spread-of-coronavirus). 
+
+* [USA Today: Trump has not been tested for coronavirus, White House says, despite indirect contact](https://www.usatoday.com/story/news/politics/2020/03/09/trump-has-not-been-tested-coronavirus-white-house-said/5005083002/). Also, [Trump Pitches Coronavirus-Related Stimulus Package on Capitol Hill](https://www.nytimes.com/2020/03/10/business/economy/coronavirus-fema-trump.html).
+
+
 
 ## Mar 7, 2020
 
