@@ -4,6 +4,20 @@ My own journal of links, thoughts, and experiences around COVID-19.
 ## General
 Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/news/coronavirus-official-updates-4513283/)
 
+## Mar 11, 2020
+
+Links:
+
+* [BBC: Coronavirus confirmed as pandemic by World Health Organization](https://www.bbc.com/news/world-51839944). "[T]he number of cases outside China had increased 13-fold in two weeks."
+
+* [Quartz: This chart of the 1918 Spanish flu shows why social distancing works](https://qz.com/1816060/a-chart-of-the-1918-spanish-flu-shows-why-social-distancing-works/). My employer, LinkedIn, continues to have a work-from-home policy for everyone that is able. 
+
+* A little concerning: Santa Clara County (mine) seems to have stopped updating their [coronavirus page](https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/known-cases-of-coronavirus.aspx) after having kept it diligently updated since January 31. 
+
+* [Seattle Times: Seattle Public Schools to close for two weeks in light of coronavirus concerns](https://www.seattletimes.com/seattle-news/education/seattle-public-schools-to-close-for-two-weeks-in-light-of-coronavirus-concerns/). Starts tomorrow.
+
+* [NPR: Coronavirus: New York Creates 'Containment Area' Around Cluster In New Rochelle](https://www.npr.org/sections/health-shots/2020/03/10/814099444/new-york-creates-containment-area-around-cluster-in-new-rochelle). "A synagogue in the city has become the epicenter of an outbreak in Westchester County — which accounts for 108 of New York state's 173 coronavirus cases."
+
 ## Mar 10, 2020
 
 * I've had stomach flu since the evening of Saturday 7th. Sunday is easily in my top 10 worst in recent memory. On Monday I dared to eat some oyster crackers and that went OK. Today -- Tuesday -- I ate an egg and some more crackers. I'm probably at 75% health but glad for it considering the past few days. Definitely wasn't the coronavirus, which I'm not looking forward to (I feel like it's unavoidable at this point, even with social distancing and hand-washing), but also want to get out of the way.
