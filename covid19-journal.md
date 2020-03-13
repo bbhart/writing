@@ -4,6 +4,27 @@ My own journal of links, thoughts, and experiences around COVID-19.
 ## General
 Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/news/coronavirus-official-updates-4513283/)
 
+## Mar 12, 2020
+
+Santa Clara County started updating their site again, with a new format. There are [66 confirmed cases now](https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx), but in reality it's much higher **because nobody is testing**. 
+
+Canceled/postponed/closed/announced closed:
+* The NBA
+* The NCAA finals
+* The MLB
+* The NHL
+* Some travel between the US and Europe
+* Disneyland, Disney World
+* San Francisco Unified School District
+* Seattle School District
+* [All schools in Ohio, Maryland, and Kentucky](https://www.chicagotribune.com/coronavirus/ct-nw-coronavirus-united-states-school-closings-20200312-sh2d5vi525drvcf5dwm7hnebru-story.html)
+
+These are the ones announced *in the last 24 hours*.
+
+Today was the largest daily point loss of the Dow Jones Industrial Average ever: -23522 points, or down 9.99%. The second largest point drop was three days ago, on March 9. The third largest was yesterday. It's the fourth largest *percentage* drop ever, missing Oct 29, 1929, by less than 2%. [1](https://en.wikipedia.org/wiki/List_of_largest_daily_changes_in_the_Dow_Jones_Industrial_Average)
+
+On a personal note, I don't know how to convince more people they need to pay attention to this. Still think "It's just like the flu..."? Start paying attention.
+
 ## Mar 11, 2020
 
 Links:
