@@ -18,6 +18,7 @@ Canceled/postponed/closed/announced closed:
 * San Francisco Unified School District
 * Seattle School District
 * [All schools in Ohio, Maryland, and Kentucky](https://www.chicagotribune.com/coronavirus/ct-nw-coronavirus-united-states-school-closings-20200312-sh2d5vi525drvcf5dwm7hnebru-story.html)
+* [Broadway shows in NYC](https://www.washingtonpost.com/entertainment/theater_dance/broadway-to-go-dark-as-coronavirus-fears-intensify/2020/03/12/6e007114-648e-11ea-b3fc-7841686c5c57_story.html)
 
 These are the ones announced *in the last 24 hours*.
 
