@@ -4,13 +4,29 @@ My own journal of links, thoughts, and experiences around COVID-19.
 ## General
 Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/news/coronavirus-official-updates-4513283/)
 
+## Mar 13, 2020
+
+I took a mental health day off from work today, and made a concerted effort to **put the phone down** for a good portion of the day. My anxiety has put me in a bad place over the past two weeks, and I strongly attribute it to mainlining coronavirus news. Work-from-home and the wicked stomach bug last weekend ended up with me only leaving the house for ~30 minutes over the past 8 days. Between a virtual happy hour yesterday evening with 9 or 10 work mates, my disconnecting from the news somewhat, and going on a long mountain drive today, I've been able to reset some. 
+
+Why am I so anxious? Statistically, me, my wife, and our kids will eventually catch coronavirus, feel shitty for a bit, and emerge completely fine on the other end. The anxiety stems from the perfect storm of pandemic disease, economic upheaval, and a federal government that is incompetent beyond measure. There is no template for this, and our government seems to be lacking the bright minds at the top who would be able to competently steer the ship in times of uncertainty. So I'm anxious not for me or my family, but for the people who will be injured or killed by a system that should've done a much, much better job.
+
+Links:
+
+* [The Guardian: Trump says he takes 'no responsibility' for coronavirus failures as he declares national emergency](https://www.theguardian.com/us-news/live/2020/mar/13/donald-trump-coronavirus-joe-biden-bernie-sanders-live-updates-news). 
+
+* [The Verge: Contrary to Trump’s claim, Google is not building a nationwide coronavirus screening website](https://www.theverge.com/2020/3/13/21179118/google-coronavirus-testing-screening-website-drive-thru-covid-19). 
+
+* [Cupertino Union School District (CUSD)](https://www.cusdk8.org/cms/lib/CA02218495/Centricity/Domain/3585/3-13-20%20covid%20message%20school%20closure.pdf) -- my kids' school district -- announced today they're closing schools, effective Monday. For now they are closed through April 3, and the District is coordinating with other area school districts to try to move up Spring Break to be at the tail end of the closure period. 
+
+* [CBS News: Johns Hopkins develops its own coronavirus test](https://www.cbsnews.com/news/johns-hopkins-develops-its-own-coronavirus-test/). It's great to have some people who believe in science hanging out in universities who can quickly help out when the need arises. I've read about a few other institutions, such as Stanford and the University of Washington, who also have their own tests and are continuing to improve on the time to get results.
+
 ## Mar 12, 2020
 
 Santa Clara County started updating their site again, with a new format. There are [66 confirmed cases now](https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx), but in reality it's much higher **because nobody is testing**. 
 
 Canceled/postponed/closed/announced closed:
 * The NBA
-* The NCAA finals
+* The NCAA Finals
 * The MLB
 * The NHL
 * Some travel between the US and Europe
