@@ -20,6 +20,9 @@ Links:
 
 * [CBS News: Johns Hopkins develops its own coronavirus test](https://www.cbsnews.com/news/johns-hopkins-develops-its-own-coronavirus-test/). It's great to have some people who believe in science hanging out in universities who can quickly help out when the need arises. I've read about a few other institutions, such as Stanford and the University of Washington, who also have their own tests and are continuing to improve on the time to get results.
 
+I'm going to stop updating stats on the number of cases and deaths as they're about to explode and there are other sites for that grim information.
+
+
 ## Mar 12, 2020
 
 Santa Clara County started updating their site again, with a new format. There are [66 confirmed cases now](https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx), but in reality it's much higher **because nobody is testing**. 
