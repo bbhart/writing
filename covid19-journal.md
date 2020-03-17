@@ -3,6 +3,7 @@ My own journal of links, thoughts, and experiences around COVID-19.
 
 ## General
 Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/news/coronavirus-official-updates-4513283/)
+
 Link: [Resources for Parents](resources-for-parents.md) trying to keep kids engaged during these unusual times. (Note: pull requests accepted on that doc!)
 
 ## Mar 16, 2020
