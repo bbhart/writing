@@ -4,6 +4,103 @@ My own journal of links, thoughts, and experiences around COVID-19.
 ## General
 Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/news/coronavirus-official-updates-4513283/)
 
+## Mar 16, 2020
+
+Today was the first work-from-home day that also overlapped with the kids' school-from-home day. It went *okay*. 
+
+I want to start by saying I'm **super impressed** with how my employer, LinkedIn, has been handling this difficult situation so far. They were *very* aggressive about promoting work-from-home early on. This is our eighth official WFH day, and they made their call well before it was patently evident it was the right one. 
+
+* Some stock market news. Today was the largest point drop of the Dow in history (−2,997), and the second largest percentage drop (−12.93%, just edging out Oct 28, 1929's -12.82%). 
+
+* [San Francisco Chronicle: Bay Area orders ‘shelter in place,’ only essential businesses open in 6 counties](https://www.sfchronicle.com/local-politics/article/Bay-Area-must-shelter-in-place-Only-15135014.php). This is where we live. "Grocery stores and pharmacies will remain open, and restaurants may stay open to provide takeout food only. Also staying open: veterinary services, gas stations and auto repair shops, hardware and other home supply stores, banks and laundry services." 
+
+![Bay Area Counties graphic](assets/2020-mar-16-counties.png)
+
+* [AP: Government official: Coronavirus vaccine trial starts Monday](https://apnews.com/8089a3d0ec8f9fde971bddd7b3aa2ba1). I know it's a long way away from public use, but good to see some progress.
+
+* **Matt Colvin** will have an SEO problem when he goes to apply for his next job. He's the guy who took a 1,300 mile road trip across Tennessee and into Kentucky to buy and hoard sanitizer and wipes. He didn't want to bring a lot of attention to it, so he [did an interview and photoshoot with the New York Times](https://www.nytimes.com/2020/03/14/technology/coronavirus-purell-wipes-amazon-sellers.html). 
+
+* The Norwegian University of Science and Technology posted their recommendation that all overseas students return home to Norway. "This... applies for countries with poorly developed collective infrastructure, for example the USA." They have since modified the post to remove specific reference to the US, but one wishes they hadn't.
+
+![NTNU post](assets/2020-mar-16-ntnu.png)
+
+* Heard one case where the poster's parents didn't start to take COVID-19 seriously until [the AARP updated their web site](https://www.aarp.org/). 
+
+* Two links on the same topic of immune system response to COVID-19. 
+  * [Science Daily: Deadly immune 'storm' caused by emergent flu infections](https://www.sciencedaily.com/releases/2014/02/140227142250.htm). "Cytokine storm" has come up a few times in our work channels. "A cytokine storm is an overproduction of immune cells and their activating compounds (cytokines), which, in a flu infection, is often associated with a surge of activated immune cells into the lungs. The resulting lung inflammation and fluid buildup can lead to respiratory distress and can be contaminated by a secondary bacterial pneumonia -- often enhancing the mortality in patients." 
+  * [Coronavirus: Health official warns against taking ibuprofen as it 'may worsen bug'](https://www.mirror.co.uk/news/uk-news/coronavirus-health-official-warns-against-21697106). tl;dr you might consider taking paracetamol aka Acetaminophen aka TYLENOL instead of ibuprofen. **Do further reading if you're thinking of doing this for kids though!**
+
+* If you're thinking of ginning up your own household sanitizer for some reason, please don't be dumb.
+
+![Household chemicals you don't want to mix](assets/2020-mar-16-household.jpg)
+
+* I'll leave you with this: [A sign of strange times: The Pope blessing an empty St. Peter’s Square.](https://twitter.com/BurkeCNN/status/1239223460720709633?s=20)
+
+![Pope blesses an empty St. Peter's Square](assets/2020-mar-16-pope.jpg)
+
+## BONUS: Learning Resources for Kids
+An awesome parent shared this on one of LinkedIn's many coronavirus-related slack channels. I hyperlinked things up for your pleasure. 
+
+This is also shareable separately at [https://gist.github.com/bbhart/54c4536dae827cdcb7ca00767c7292e7](https://gist.github.com/bbhart/54c4536dae827cdcb7ca00767c7292e7). 
+
+### Online resources:
+- [BrainPop](https://www.brainpop.com/)
+- [Curiosity Stream](https://curiositystream.com/)
+- [Tynker](https://www.tynker.com/)
+- [Outschool](https://outschool.com/)
+- [Udemy](https://www.udemy.com/)
+- [iReady](https://www.curriculumassociates.com/products/i-ready)
+- [Beast Academy (Math)](https://beastacademy.com/)
+- [Khan Academy](https://www.khanacademy.org/)
+- [Creative Bug](https://www.creativebug.com/)
+- [Discovery Education](https://www.discoveryeducation.com/)
+
+### YouTube Channels:
+- [Crash Course Kids](https://www.youtube.com/user/crashcoursekids)
+- [Science Channel](https://www.youtube.com/user/ScienceChannel)
+- [SciShow Kids](https://www.youtube.com/user/scishowkids)
+- [National Geographic Kids](https://www.youtube.com/channel/UCXVCgDuD_QCkI7gTKU7-tpg)
+- [Free School](https://www.youtube.com/user/watchfreeschool)
+- [GEOgraphy Focus](https://www.youtube.com/channel/UC8HYERScBt-e0kV0fpe0asg)
+- [thebrainscoop](https://www.youtube.com/user/thebrainscoop)
+- [SciShow](https://www.youtube.com/user/scishow)
+- [Kids Learning Tube](https://www.youtube.com/channel/UC7EFWpvc1wYuUwrtZ_BLi9A)
+- [Geek Gurl Diaries](https://www.youtube.com/user/GeekGurlDiaries)
+- [Mike Likes Science](https://www.youtube.com/user/comaniddy)
+- [Science Max](https://www.youtube.com/channel/UCbprhISv-0ReKPPyhf7-Dtw)
+- [SoulPancake](https://www.youtube.com/user/soulpancake)
+
+### Other resources to help with kids at home
+
+* Scholastic has created a [free learn-from-home site with 20+ days of learning and activities](https://classroommagazines.scholastic.com/support/learnathome.html).
+
+* Pretend to travel the world. [Go on a virtual tour of these 12 famous museums](https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours).
+
+* This is the awesome free curriculum that we use. [Everything from preschool activities to 12th grade is here](https://allinonehomeschool.com/), from All-in-One Homeschool. 
+
+* [List of thinking games by grade](https://allinonehomeschool.com/thinking/), also by All-in-One Homeschool.
+
+### More awesome free learning websites
+
+* https://www.starfall.com/h/
+* https://www.abcya.com/
+* https://www.funbrain.com/
+* https://www.splashlearn.com/
+* https://www.storylineonline.net/
+* https://pbskids.org/
+* https://www.highlightskids.com/
+* https://kids.nationalgeographic.com/
+* https://www.coolmath4kids.com/
+* http://www.mathgametime.com/
+* https://www.uniteforliteracy.com/
+* http://www.literactive.com/Home/index.asp
+* http://www.sciencekids.co.nz/
+* https://www.switchzoo.com/
+* https://www.seussville.com/
+* https://www.turtlediary.com/
+* https://www.e-learningforkids.org/
+
+
 ## Mar 13, 2020
 
 I took a mental health day off from work today, and made a concerted effort to **put the phone down** for a good portion of the day. My anxiety has put me in a bad place over the past two weeks, and I strongly attribute it to mainlining coronavirus news. Work-from-home and the wicked stomach bug last weekend ended up with me only leaving the house for ~30 minutes over the past 8 days. Between a virtual happy hour yesterday evening with 9 or 10 work mates, my disconnecting from the news somewhat, and going on a long mountain drive today, I've been able to reset some. 
