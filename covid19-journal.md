@@ -6,6 +6,40 @@ Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/new
 
 Link: [Resources for Parents](resources-for-parents.md) trying to keep kids engaged during these unusual times. (Note: pull requests accepted on that doc!)
 
+## Mar 19, 2020
+
+Here in a 9 county area of Northern California -- including Santa Clara County, where we live -- we've been in a shelter-in-place order for a few days now, though I've been in shelter mode since March 5 when LinkedIn sent us home. Well, [this evening California's governor extended shelter-in-place to the rest of California](https://www.marketwatch.com/story/california-governor-issues-statewide-shelter-in-place-order-2020-03-19), impacting some 40 million people. We can still leave homes for essential needs like food or medical care, and we can still receive deliveries from Amazon and restaurants. We can also get out and go for walks, and the kids can play in the yard, which may help preserve our sanity. [Something like this, in the woodsy mountains and away from it all](https://www.airbnb.com/rooms/13019040?s=67&sharer_id=7285002&unique_share_id=5d9b5798-ad0c-43db-83ac-8acab29fcc19) is starting to look pretty appealing. 
+
+I've been feeling under the weather all day today. My energy level dropped off a cliff mid-morning, I've been doing "catch up" breaths and swallowing more than usual. In the afternoon I was running a faint fever (99.2 / 99.3) but it's possible that was just anxiety, which has been a challenge the past few weeks. I say all that, but I had a banana muffin and ice cream sandwich and felt *much* better after, so maybe it was blood sugar? I'll give it a few days and see.
+
+Some links:
+
+* [YouTube/Channel 4 News: Inside intensive care unit: Italy fights coronavirus outbreak](https://www.youtube.com/watch?v=rfkbv_WQtn0&feature=youtu.be). "Italian hospitals are at their absolute limit, with hundreds more deaths reported daily, and huge challenges in caring for those infected." **WARNING: I'm on the fence about sharing this. You may want to skip it. It doesn't have gore or anything but may make you anxious or concerned. I wanted to highlight the heroes these medical professionals are.**
+
+* [BBC News: Coronavirus and ibuprofen: Separating fact from fiction](https://www.bbc.com/news/51929628). Still trying to suss out the story with ibuprofen. Will probably avoid for now out of an abundance of caution.
+
+* [The Guardian: The tech execs who don't agree with 'soul-stealing' coronavirus safety measures](https://www.theguardian.com/technology/2020/mar/18/tech-execs-who-dont-agree-coronavirus-measures). Don't be Tim Draper (and not just because of this). Don't be Elon Musk. 
+
+* [The Guardian: Japanese flu drug 'clearly effective' in treating coronavirus, says China](https://www.theguardian.com/world/2020/mar/18/japanese-flu-drug-clearly-effective-in-treating-coronavirus-says-china). "[F]avipiravir, developed by a subsidiary of Fujifilm, had produced encouraging outcomes in clinical trials in Wuhan and Shenzhen involving 340 patients."
+
+  > Oh and an aside about [The Guardian](https://www.theguardian.com/us) since I linked them twice: I signed up last night to give them $10/mo as they seem to be one of the more reliable online news sources out there.
+
+* [Los Angeles Times: Woman who flew from U.S. to China for coronavirus test faces criminal charges](https://www.latimes.com/world-nation/story/2020-03-18/woman-who-flew-from-u-s-to-china-for-coronavirus-test-faces-criminal-charges). "The woman took fever-reducing medication before boarding a plane and lied to flight attendants, according to Beijing’s disease control center and an Air China representative, who held a news conference on Monday." "According to Chinese law, she could face up to three years of imprisonment or detention with possible forced labor, or up to seven years of prison if there are “serious consequences.” Hey don't do this.
+
+* [GatesNotes: We’re Not Ready for the Next Epidemic](https://www.gatesnotes.com/Health/We-Are-Not-Ready-for-the-Next-Epidemic). Bill Gates gave a TED talk *five years ago* about how unprepared we were for an epidemic. Here we are.
+
+* [Bloomberg: 99% of Those Who Died From Virus Had Other Illness, Italy Says](https://www.bloomberg.com/news/articles/2020-03-18/99-of-those-who-died-from-virus-had-other-illness-italy-says). "More than 75% had high blood pressure, about 35% had diabetes and a third suffered from heart disease." and "Almost half of the victims suffered from at least three prior illnesses and about a fourth had either one or two previous conditions."
+
+* [SFGate: Whole Foods, Safeway among Bay Area grocery stores offering seniors-only hours](https://www.sfgate.com/bayarea/article/seniors-only-shopping-groceries-bay-area-15137311.php). This started as an article about how Zanotto's, our literally-around-the-corner grocery store, would start offering Senior Hours from 8 to 9 am, but it looks like SFGate has expanded it to include similar hours at other area stores. 
+
+  * I went to Zanotto's last evening about 20 minutes before close and the inventory had been well picked-over. As I'm checking out, the cashier discretely asks me if I also need toilet paper, as they have some behind the counter for people who are making other purchases. I passed.
+    ![Empty store shelves](assets/2020-mar-19-zanottos1.png) 
+    ![Empty store shelves](assets/2020-mar-19-zanottos2.png)
+
+* And finally, [this is how I feel](https://twitter.com/tzimmer_history/status/1238106020855066626):
+
+![The weirdest part of living through the #COVID19 pandemic is this strange mixture of normalcy and emergency that we’re all experiencing. I constantly feel like I’m either over- or underreacting, or really both at the exact same time. It’s surreal.](assets/2020-mar-19-tweet.png)
+
 ## Mar 16, 2020
 
 Today was the first work-from-home day that also overlapped with the kids' school-from-home day. It went *okay*. 
