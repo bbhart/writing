@@ -6,6 +6,20 @@ Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/new
 
 Link: [Resources for Parents](resources-for-parents.md) trying to keep kids engaged during these unusual times. (Note: pull requests accepted on that doc!)
 
+## Mar 22, 2020
+
+I've been yelling at people here since February 28 that a storm is coming and you should start making some plans. If you're still not convinced, I can't do anything more at this point than pity you, and hope you find the evidence you need so you can take action before you hurt someone. 
+
+That's it. I've been staring at the screen for 20 minutes trying to think of what more to write. Stay at home. Wash your hands. 
+
+Links:
+
+* [CNN: Rand Paul is first senator to test positive for coronavirus](https://www.cnn.com/2020/03/22/politics/rand-paul-coronavirus/index.html). He had a test (despite being asymptomatic), went to the Senate gym and pool, then received the results later today. 
+
+* [Twitter / The British Association of Otorhinolaryngology: Is a lost sense of smell a marker of COVID-19 infection?] (https://twitter.com/ENT_UK/status/1241063677186449408)
+
+
+
 ## Mar 19, 2020
 
 Here in a 9 county area of Northern California -- including Santa Clara County, where we live -- we've been in a shelter-in-place order for a few days now, though I've been in shelter mode since March 5 when LinkedIn sent us home. Well, [this evening California's governor extended shelter-in-place to the rest of California](https://www.marketwatch.com/story/california-governor-issues-statewide-shelter-in-place-order-2020-03-19), impacting some 40 million people. We can still leave homes for essential needs like food or medical care, and we can still receive deliveries from Amazon and restaurants. We can also get out and go for walks, and the kids can play in the yard, which may help preserve our sanity. [Something like this, in the woodsy mountains and away from it all](https://www.airbnb.com/rooms/13019040?s=67&sharer_id=7285002&unique_share_id=5d9b5798-ad0c-43db-83ac-8acab29fcc19) is starting to look pretty appealing. 
