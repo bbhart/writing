@@ -4,7 +4,22 @@ My own journal of links, thoughts, and experiences around COVID-19.
 ## General
 Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/news/coronavirus-official-updates-4513283/)
 
-Link: [Resources for Parents](resources-for-parents.md) trying to keep kids engaged during these unusual times. (Note: pull requests accepted on that doc!)
+## Mar 23, 2020
+
+I am now likely one-degree connected to someone with COVID-19; this person is symptomatic and has taken a test, but the results haven't come back yet. We haven't been near each other physically since the first few days of March. And no, this person hasn't lost their sense of taste or smell; I asked. At this point they are managing the symptoms well and statistically they have an almost 100% chance of making a full recovery.
+
+Links:
+
+* [France24: Madrid ice rink turned into morgue due to coronavirus](https://www.france24.com/en/20200323-madrid-ice-rink-turned-into-morgue-due-to-coronavirus). 
+* [TIME: Sen. Rand Paul Remained at Work on U.S. Capitol for Six Days After Coronavirus Test](https://time.com/5808407/sen-rand-paul-senate-capitol-coronavirus/). Sen. Paul is a graduate of the Duke University School of Medicine. Yes, he's an M.D. 
+* [Fox 13 Tampa: Hillsborough County leaders postpone possible 'stay-at-home' order, despite Mayor Castor's plea](https://www.fox13news.com/news/hillsborough-county-leaders-postpone-possible-stay-at-home-order-despite-mayor-castors-plea). "[T]he motion that ultimately passed was only to further study a stay-at-home motion and a possible 10 p.m. to 5 a.m. curfew. The group will meet again on Thursday." Decisive leadership.
+* [BBC News: Coronavirus: Why India's busiest rail network is being shut down](https://www.bbc.com/news/world-asia-india-51957936). "One of the world's busiest urban rail systems will be shut down for ordinary commuters from Monday morning to prevent the spread of coronavirus infection in Mumbai, one of India's most populous cities. Only government workers in "essential services" will be allowed to travel on a truncated service."
+* [Serious Eats: Food Safety and Coronavirus: A Comprehensive Guide](https://www.seriouseats.com/2020/03/food-safety-and-coronavirus-a-comprehensive-guide.html). Food safety and COVID-19 is something that's been on my mind as 1) I'm missing our usual yellow curry and Pad Thai, and 2) a nearby(-ish) restaurant Flights has [transformed into a ‘no touch,’ drive-thru grocery](https://www.mercurynews.com/2020/03/23/los-gatos-restaurant-transformed-into-a-no-touch-drive-thru-grocery/).
+
+And lastly, people all over the internet have been dunking on these people all day, but really it's just sad and unfortunate. 
+
+* [Phoenix New Times: Arizona Man Dies After Trying Substance Touted by Trump to Treat COVID-19](https://www.phoenixnewtimes.com/news/covid-19-remedy-touted-by-trump-kills-arizona-man-wife-critical-11460391). 
+
 
 ## Mar 22, 2020
 
@@ -16,7 +31,7 @@ Links:
 
 * [CNN: Rand Paul is first senator to test positive for coronavirus](https://www.cnn.com/2020/03/22/politics/rand-paul-coronavirus/index.html). He had a test (despite being asymptomatic), went to the Senate gym and pool, then received the results later today. 
 
-* [Twitter / The British Association of Otorhinolaryngology: Is a lost sense of smell a marker of COVID-19 infection?] (https://twitter.com/ENT_UK/status/1241063677186449408)
+* [Twitter / The British Association of Otorhinolaryngology: Is a lost sense of smell a marker of COVID-19 infection?](https://twitter.com/ENT_UK/status/1241063677186449408).
 
 
 
