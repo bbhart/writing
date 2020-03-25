@@ -16,11 +16,15 @@ Links:
 
 * [CNBC: India’s prime minister orders lockdown of country of 1.3 billion people for 21 days](https://www.cnbc.com/2020/03/24/coronavirus-indias-prime-minister-orders-nationwide-lockdown.html). India is now closed. 
 
+* [The Guardian: Jerry Falwell Jr defies calls for coronavirus closures and reopens Liberty University](https://www.theguardian.com/us-news/2020/mar/24/liberty-university-reopens-despite-coronavirus-closure-calls-jerry-falwell-jr). "Up to 5,000 students will be allowed to return to Liberty University’s campus after school officials confirmed the conservative Christian school based in Lynchburg, Virginia, will reopen this week." I'll keep an eye out for the follow-up story we all know is coming in around two weeks.
+
 * [Washington Post: The coronavirus isn’t mutating quickly, suggesting a vaccine would offer lasting protection](https://www.washingtonpost.com/). Sorry about the paywall link but here's the gist: "The coronavirus is not mutating significantly as it circulates through the human population, according to scientists who are closely studying the novel pathogen’s genetic code. That relative stability suggests the virus is less likely to become more or less dangerous as it spreads, and represents encouraging news for researchers hoping to create a long-lasting vaccine." You can probably Google around to find more.
 
 * [Buzzfeed: The Coronavirus Is Sending Lots Of Younger People To The Hospital](https://www.buzzfeednews.com/article/stephaniemlee/coronavirus-young-age-severe-cases?bftwnews&utm_term=4ldqpgc#4ldqpgc). "In New York City, health officials said Friday that of 1,160 people hospitalized with COVID-19 symptoms, one in four were between ages 18 and 49."
 
 On the lighter side:
+
+* [WAFB9: Waffle House closes 365 locations across the U.S.](https://www.wafb.com/2020/03/24/waffle-house-closes-locations-across-us/). 365 locations closed, with 1627 remaining open. Maybe I should start charting this daily?
 
 * [CBC: P.E.I. farmer keeps social distance by hurling pork products to hungry customers](https://www.cbc.ca/radio/asithappens/as-it-happens-the-monday-edition-1.5506723/p-e-i-farmer-keeps-social-distance-by-hurling-pork-products-to-hungry-customers-1.5507326). 
 
