@@ -6,6 +6,26 @@ My own journal of links, thoughts, and experiences around COVID-19.
 * Link: [COVID-19 Direct](https://covid-19.direct/US). One of the best trackers I've come across so far. Includes additional data like hospital/bed/ICU capacity.
 * Link: [Johns Hopkins CSSE Tracker](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6). Dashboard style tracker.
 
+## Mar 24, 2020
+
+It wasn't a good day overall. Lots of negative thoughts and despair. The person I was mentioning yesterday tested *negative* for COVID-19 but then I learned later in the day someone in my extended family tested positive (but is doing OK for the moment, thankfully). Being home-bound since March 5 and fairly anxious **the whole time** is having a physical impact on me. I have low-grade headache and tremors for a good portion of the day, and I'm more prone to mood swings. I'm prescribing myself longer and more frequent walks to try to cope.
+
+Anyway, the next two weeks will be a shit show here in the US. Strap in.
+
+Links:
+
+* [CNBC: India’s prime minister orders lockdown of country of 1.3 billion people for 21 days](https://www.cnbc.com/2020/03/24/coronavirus-indias-prime-minister-orders-nationwide-lockdown.html). India is now closed. 
+
+* [Washington Post: The coronavirus isn’t mutating quickly, suggesting a vaccine would offer lasting protection](https://www.washingtonpost.com/). Sorry about the paywall link but here's the gist: "The coronavirus is not mutating significantly as it circulates through the human population, according to scientists who are closely studying the novel pathogen’s genetic code. That relative stability suggests the virus is less likely to become more or less dangerous as it spreads, and represents encouraging news for researchers hoping to create a long-lasting vaccine." You can probably Google around to find more.
+
+* [Buzzfeed: The Coronavirus Is Sending Lots Of Younger People To The Hospital](https://www.buzzfeednews.com/article/stephaniemlee/coronavirus-young-age-severe-cases?bftwnews&utm_term=4ldqpgc#4ldqpgc). "In New York City, health officials said Friday that of 1,160 people hospitalized with COVID-19 symptoms, one in four were between ages 18 and 49."
+
+On the lighter side:
+
+* [CBC: P.E.I. farmer keeps social distance by hurling pork products to hungry customers](https://www.cbc.ca/radio/asithappens/as-it-happens-the-monday-edition-1.5506723/p-e-i-farmer-keeps-social-distance-by-hurling-pork-products-to-hungry-customers-1.5507326). 
+
+* [teleport.fm: Tired of people seeing your “home office” on Zoom? Teleport somewhere better.](https://teleport.fm/). Backgrounds you can download for Zoom. 
+
 ## Mar 23, 2020
 
 I am now likely one-degree connected to someone with COVID-19; this person is symptomatic and has taken a test, but the results haven't come back yet. We haven't been near each other physically since the first few days of March. And no, this person hasn't lost their sense of taste or smell; I asked. At this point they are managing the symptoms well and statistically they have an almost 100% chance of making a full recovery.
