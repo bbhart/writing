@@ -6,6 +6,28 @@ My own journal of links, thoughts, and experiences around COVID-19.
 * Link: [COVID-19 Direct](https://covid-19.direct/US). One of the best trackers I've come across so far. Includes additional data like hospital/bed/ICU capacity.
 * Link: [Johns Hopkins CSSE Tracker](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6). Dashboard style tracker.
 
+## Mar 25, 2020
+
+My wife's parents drove **direct** from west central Florida to central Nova Scotia on Sunday-into-Monday, getting ahead of the looming coronavirus disaster set to hit Florida (plus wanting to stay ahead of a major snowstorm). Then I read this article today: [Escape from Florida: My 2,400-km drive back to the sanity of Canada](https://www.macleans.ca/society/life/escape-from-florida-my-2400-km-drive-back-to-the-sanity-of-canada/). Her folks will be in self-quarantine for the next 14 days, and their neighbors (excuse me, *neighbours*) have kindly offered to fetch and drop groceries for them. My parents and my brother and his family are still isolating at their places in eastern Tennessee. Speaking of my parents, I did ask them if they'd be willing to forgo quarantine and risk death in order to create shareholder value, but they passed on that idea. 
+
+
+
+Let's do some learning:
+
+1. [The Atlantic: How the Pandemic Will End](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/). It's full of links to other sources that you can explore further, too. Even if you skip the other links below, I recommend reading this one.
+
+1. [Medium: This Is How Your Immune System Reacts to Coronavirus. And what it means for treatment](https://elemental.medium.com/this-is-how-your-immune-system-reacts-to-coronavirus-cbf5271e530e). One of the concerning aspects of COVID-19 is the stories of it taking out perfectly healthy people in their 30's and 40's -- even 20's -- [Chris Traeger](https://en.wikipedia.org/wiki/Chris_Traeger) types, no prior illnesses, dead within days... while others report they felt kind of down for a day or two (or weren't even symptomatic!) and then were fine. *That* uncertainty causes me a fair bit of distress.
+
+1. [Hackaday: Ventilators 101: What they do and how they work](https://hackaday.com/2020/03/25/ventilators-101-what-they-do-and-how-they-work/). Bonus: I learned some stuff about the CPAP machine I've been using for 11 months now.
+
+Some links:
+
+* [The Hill: Critics hit Florida governor over lack of 'sweeping' coronavirus response](https://thehill.com/homenews/state-watch/489562-critics-lash-out-at-florida-governor-over-lack-of-sweeping-coronavirus). Florida's demographics make it a ticking time bomb.
+
+* [NBC News: Louisiana pastor defies coronavirus order, draws over 1,000 people to services](https://www.nbcnews.com/news/us-news/louisiana-pastor-defies-coronavirus-order-draws-over-1-000-people-n1168501). "The virus, we believe, is politically motivated." I wouldn't know how to help these people. 
+
+* [Jackson Free Press: Governor Orders Limited Gatherings, Declares Most Businesses 'Essential,' Supersedes Local Safety Efforts](https://www.jacksonfreepress.com/news/2020/mar/24/gov-tate-reeves-orders-limited-gatherings-today-ex/). tl;dr a number of municipalities were unhappy that the governor of Mississippi, Tate Reeves, wasn't doing shit, so they enacted their own restrictions. This appears to supercede those restrictions. You probably weren't planning a vacation to Mississippi *anyway* but if you were... you might hold off.
+
 ## Mar 24, 2020
 
 It wasn't a good day overall. Lots of negative thoughts and despair. The person I was mentioning yesterday tested *negative* for COVID-19 but then I learned later in the day someone in my extended family tested positive (but is doing OK for the moment, thankfully). Being home-bound since March 5 and fairly anxious **the whole time** is having a physical impact on me. I have low-grade headache and tremors for a good portion of the day, and I'm more prone to mood swings. I'm prescribing myself longer and more frequent walks to try to cope.
