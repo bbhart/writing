@@ -6,6 +6,10 @@ My own journal of links, thoughts, and experiences around COVID-19.
 * Link: [COVID-19 Direct](https://covid-19.direct/US). One of the best trackers I've come across so far. Includes additional data like hospital/bed/ICU capacity.
 * Link: [Johns Hopkins CSSE Tracker](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6). Dashboard style tracker.
 
+## Mar 26, 2020
+
+* [CBS News: U.S. surpasses China with most cases worldwide](https://www.cbsnews.com/live-updates/coronavirus-news-latest-2020-03-26/). American exceptionalism strikes again. We did it!!1!
+
 ## Mar 25, 2020
 
 My wife's parents drove **direct** from west central Florida to central Nova Scotia on Sunday-into-Monday, getting ahead of the looming coronavirus disaster set to hit Florida (plus wanting to stay ahead of a major snowstorm). Then I read this article today: [Escape from Florida: My 2,400-km drive back to the sanity of Canada](https://www.macleans.ca/society/life/escape-from-florida-my-2400-km-drive-back-to-the-sanity-of-canada/). Her folks will be in self-quarantine for the next 14 days, and their neighbors (excuse me, *neighbours*) have kindly offered to fetch and drop groceries for them. My parents and my brother and his family are still isolating at their places in eastern Tennessee. Speaking of my parents, I did ask them if they'd be willing to forgo quarantine and risk death in order to create shareholder value, but they passed on that idea. 
