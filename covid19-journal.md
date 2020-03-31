@@ -27,7 +27,7 @@ This **United States** dashboard from [HealthData.org](https://covid19.healthdat
 
 ![USA-wide dashboard shows bed and ICU bed shortage predictions](assets/2020-mar-30-healthdatadashboard.png)
 
-This **California** dashboard from the same site shows no predicted shortages of beds or ICU beds. The quick way to read this is that you don't want the dotted line (predicted need) to go higher than the solid line of the same color (availability).
+This **California** dashboard from the same site shows no predicted shortages of beds or ICU beds. The quick way to read this is that you **don't** want the dotted line (predicted need) to go higher than the solid line of the same color (availability).
 
 ![California map shows resources under control](assets/2020-mar-30-sccdashcalifornia.png)
 
@@ -35,7 +35,7 @@ Then compare to **New York**, which is astonishing.
 
 ![New York map shows resources vastly overwhelmed](assets/2020-mar-30-sccdashnewyork.png)
 
-One other note about these projections: "The projections assume the continuation of strong social distancing measures and other protective measures." There are still states not taking as hard a line as others, like California. 
+One other note about these projections: "The projections assume the continuation of strong social distancing measures and other protective measures." There are still states not taking as hard a line as others. 
 
 Links:
 
