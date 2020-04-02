@@ -4,6 +4,7 @@ My own journal of links, thoughts, and experiences around COVID-19.
 ## General
 * Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/news/coronavirus-official-updates-4513283/)
 * Link: [COVID-19 Direct](https://covid-19.direct/US). One of the best trackers I've come across so far. Includes additional data like hospital/bed/ICU capacity.
+* Link: [IMHE - HealthData](https://covid19.healthdata.org/projections). 
 * Link: [Johns Hopkins CSSE Tracker](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6). Dashboard style tracker.
 * Link: [Apple's COVID-19 app](https://apps.apple.com/us/app/apple-covid-19/id1504132184).
 
