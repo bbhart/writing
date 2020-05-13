@@ -4,17 +4,65 @@ My own journal of links, thoughts, and experiences around COVID-19.
 ## General
 * Link: [LinkedIn curated list of COVID-19 news](https://www.linkedin.com/feed/news/coronavirus-official-updates-4513283/)
 * Link: [COVID-19 Direct](https://covid-19.direct/US). One of the best trackers I've come across so far. Includes additional data like hospital/bed/ICU capacity.
+* Link: [IMHE - HealthData](https://covid19.healthdata.org/projections). 
 * Link: [Johns Hopkins CSSE Tracker](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6). Dashboard style tracker.
+* Link: [Apple's COVID-19 app](https://apps.apple.com/us/app/apple-covid-19/id1504132184).
+
+## Mar 30, 2020
+
+Took a few days off from the journal.
+
+At this point, I can't imagine the kids will go back to school this school year. We'll miss all those spring activities we usually look forward to, plus my son's graduation from elementary school this year. Actually... will they even graduate? They won't have fulfilled the requirements to move on. Will curriculums nationwide flex to accomodate these kids missing several months of fundamental education? Questions, questions. 
+
+As for work, I wouldn't expect to be back in an office for at least six more weeks, putting us into the middle of May. I do spend a lot of time wondering what lessons LinkedIn and other Bay Area companies will learn from this, and how it will impact the culture. One would have to assume meal service in its current form would be discontinued, though perhaps there would be prepackaged takeaway food available. Gyms shuttered, too. Further, the large tech companies tend **not** to be fans of hiring remote engineers (though good workers are sometimes allowed to transition from office to remote after a few years in the office), and at my company, as far as I'm aware, there are no work-from-home engineering managers (well, technically, there are currently hundreds, but it's strongly embedded in the culture that managing is done from offices). 
+
+It's a little premature to be wondering about going back to the office, I know. I will say that my own team has done a stellar job of keeping projects moving forward from home during these difficult times, and I'm fortunate to manage these dedicated engineers. 
+
+Switching gears.
+
+As of March 29, Santa Clara County had recorded 848 total cases and 28 deaths. (*Note from the county: The 202 new confirmed cases reported today include some results that were not previously reported over the past two days. This increase reflects a reporting delay, not necessarily a significant single day increase.*)
+
+![SCC Dashboard, current as of March 29](assets/2020-mar-30-sccdashboard.png)
+
+This **United States** dashboard from [HealthData.org](https://covid19.healthdata.org/projections) shows that the country will face a severe bed and ICU bed shortage within the next two weeks. 
+
+![USA-wide dashboard shows bed and ICU bed shortage predictions](assets/2020-mar-30-healthdatadashboard.png)
+
+This **California** dashboard from the same site shows no predicted shortages of beds or ICU beds. The quick way to read this is that you **don't** want the dotted line (predicted need) to go higher than the solid line of the same color (availability).
+
+![California map shows resources under control](assets/2020-mar-30-sccdashcalifornia.png)
+
+Then compare to **New York**, which is astonishing.  
+
+![New York map shows resources vastly overwhelmed](assets/2020-mar-30-sccdashnewyork.png)
+
+One other note about these projections: "The projections assume the continuation of strong social distancing measures and other protective measures." There are still states not taking as hard a line as others. 
+
+Links:
+
+* [Washington Post: Coronavirus pandemic could kill as many as 200,000 in U.S., White House warns](https://www.washingtonpost.com/national/coronavirus-deaths-warning-america/2020/03/30/522221ce-72a6-11ea-87da-77a8136c1a6d_story.html). "The White House’s coronavirus coordinator on Monday warned that the pandemic could kill as many as 200,000 Americans in even a best-case scenario as state officials intensified their stay-at-home directives — further erasing any hope that the country would have a speedy recovery from the global health crisis."
+
+* [Fox 13 Tampa Bay: Tampa megachurch crowded with worshipers, despite social distancing orders](https://www.fox13news.com/news/tampa-megachurch-crowded-with-worshipers-despite-social-distancing-orders) quickly followed by [Tampa Bay Times: Pastor of Tampa church that held two large Sunday services arrested, jailed](https://www.tampabay.com/news/health/2020/03/30/tampa-church-holds-packed-service-draws-warning-from-sheriffs-office/). 
+
+* [Bloomberg: Abbott Launches 5-Minute Virus Test for Use Almost Anywhere](https://www.bloomberg.com/news/articles/2020-03-27/abbott-launches-5-minute-covid-19-test-for-use-almost-anywhere).
+
+* [Independent.ie: 'Two metres not enough' when social distancing](https://www.independent.ie/world-news/coronavirus/two-metres-not-enough-when-social-distancing-39083182.html). "The two-metre social distancing rule being used to keep people apart may need to be four times bigger to prevent coronavirus from spreading, a new study suggests."
+
+* [American Enterprise Institute: National coronavirus response: A road map to reopening](https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/). How might we get back to business once COVID-19 is under control? 
+
+* [Sky News: Coronavirus: Belarus president refuses to cancel anything - and says vodka and saunas will ward off COVID-19](https://news.sky.com/story/coronavirus-belarus-president-refuses-to-cancel-anything-and-says-vodka-and-saunas-will-ward-off-coronavirus-11965396). 
+
+* [The Press Democrat: Sonoma County emergency management director disregards coronavirus shelter-in-place order, takes family to beach](https://www.pressdemocrat.com/news/10860895-181/sonoma-county-emergency-management-director). Do as I say, not as I do.
+
 
 ## Mar 26, 2020
 
 * [CBS News: U.S. surpasses China with most cases worldwide](https://www.cbsnews.com/live-updates/coronavirus-news-latest-2020-03-26/). American exceptionalism strikes again. We did it!!1!
 
+
 ## Mar 25, 2020
 
 My wife's parents drove **direct** from west central Florida to central Nova Scotia on Sunday-into-Monday, getting ahead of the looming coronavirus disaster set to hit Florida (plus wanting to stay ahead of a major snowstorm). Then I read this article today: [Escape from Florida: My 2,400-km drive back to the sanity of Canada](https://www.macleans.ca/society/life/escape-from-florida-my-2400-km-drive-back-to-the-sanity-of-canada/). Her folks will be in self-quarantine for the next 14 days, and their neighbors (excuse me, *neighbours*) have kindly offered to fetch and drop groceries for them. My parents and my brother and his family are still isolating at their places in eastern Tennessee. Speaking of my parents, I did ask them if they'd be willing to forgo quarantine and risk death in order to create shareholder value, but they passed on that idea. 
-
-
 
 Let's do some learning:
 
