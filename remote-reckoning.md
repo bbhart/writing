@@ -2,6 +2,7 @@
 Companies with Announced WFH
 ============================
 _These are companies with full or partial WFH policies as a response to COVID-19 shutdowns._
+_Pull Requests accepted if you know of other notable companies who have announced policy changes._
 
 1. Microsoft. [Working from home will remain optional through October [2020]](https://www.geekwire.com/2020/microsoft-updates-wfh-policy-allows-employees-work-remotely-october/). Current as of May 5.
 
