@@ -15,4 +15,6 @@ _These are companies with full or partial WFH policies as a response to COVID-19
 
 1. Apple. [Apple said to begin plans to return workforce to the office by summer](https://www.cnet.com/news/apple-said-to-begin-plans-to-return-workforce-to-the-office-by-summer/). Current as of May 13.
 
+1. Square. [Square announces permanent work-from-home policy](https://www.theverge.com/2020/5/18/21261798/square-employees-work-from-home-remote-premanent-policy-ceo.) Another [@jack](https://twitter.com/jack) company. Current as of May 18.
+
 1. Coinbase. [Post COVID-19, Coinbase will be a remote-first company](https://blog.coinbase.com/post-covid-19-coinbase-will-be-a-remote-first-company-cdac6e621df7). Current as of May 20.
