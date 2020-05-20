@@ -14,3 +14,5 @@ _These are companies with full or partial WFH policies as a response to COVID-19
 1. Twitter. [Twitter says staff can continue working from home permanently](https://techcrunch.com/2020/05/12/twitter-says-staff-can-continue-working-from-home-permanently/). Current as of May 12.
 
 1. Apple. [Apple said to begin plans to return workforce to the office by summer](https://www.cnet.com/news/apple-said-to-begin-plans-to-return-workforce-to-the-office-by-summer/). Current as of May 13.
+
+1. Coinbase. [Post COVID-19, Coinbase will be a remote-first company](https://blog.coinbase.com/post-covid-19-coinbase-will-be-a-remote-first-company-cdac6e621df7). Current as of May 20.
