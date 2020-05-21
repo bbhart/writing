@@ -25,4 +25,4 @@ _These are companies who have announced they will shift to a permanent work-from
 
 1. Coinbase. [Post COVID-19, Coinbase will be a remote-first company](https://blog.coinbase.com/post-covid-19-coinbase-will-be-a-remote-first-company-cdac6e621df7). Posted May 20.
 
-1. Shopify. [As of today, Shopify is a digital by default company. We will keep our offices closed until 2021 so that we can rework them for this new reality. And after that, most will permanently work remotely.](https://twitter.com/tobi/status/1263483496087064579). Tweeted by Shopify's CEO Tobi Lutke. Posted May 21. 
+1. Shopify. [As of today, Shopify is a digital by default company. We will keep our offices closed until 2021 so that we can rework them for this new reality. And after that, most will permanently work remotely](https://twitter.com/tobi/status/1263483496087064579). Tweeted by Shopify's CEO Tobi Lutke. Posted May 21. 
