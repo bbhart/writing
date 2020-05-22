@@ -27,3 +27,5 @@ _These are companies who have announced they will shift to a permanent work-from
 
 1. Facebook. [Mark Zuckerberg: Half of Facebook may work remotely by 2030](https://www.nbcnews.com/tech/tech-news/mark-zuckerberg-half-facebook-may-work-remotely-2030-n1212081). On the fence about including this in the Permanent section as there's some hedging language in the
 announcement, and I question Facebook's long-term commitment to this once we're past COVID-19. But we'll see. Posted May 21.
+
+1. AWeber. [AWeber is now a remote first team](https://twitter.com/tkulzer/status/1263581816398639104). Tweeted by AWeber's CEO Tom Kulzer. Posted May 21. 
